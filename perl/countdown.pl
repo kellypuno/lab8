@@ -11,6 +11,6 @@ while($remaining) {
     sleep 1;
 }
 print "\n";
-print "Countdown complete\n";
+print "Countdown complete!\n";
 
 

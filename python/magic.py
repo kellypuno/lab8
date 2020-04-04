@@ -4,7 +4,7 @@ import random
 ans = True
 
 while ans:
-    question = raw_input("Ask the magic 8 ball a question and enter a numb:er from 1-8: (press enter to quit) ")
+    question = raw_input("Ask the magic 8 ball a question and enter a number from 1-8: (press enter to quit) ")
     
     answers = random.randint(1,8)
     
